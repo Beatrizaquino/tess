@@ -1,3 +1,4 @@
+package Petshop;
 public class Servico {
 
     public Cliente cliente;

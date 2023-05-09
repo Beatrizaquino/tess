@@ -1,3 +1,4 @@
+package Petshop;
 public class Gato extends Animal {
     
     public Gato(String _nome, String _raca, int _idade){

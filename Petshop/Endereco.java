@@ -1,3 +1,4 @@
+package Petshop;
 public class Endereco {
     
     public String bairro;

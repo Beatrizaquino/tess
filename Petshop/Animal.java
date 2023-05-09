@@ -1,3 +1,4 @@
+package Petshop;
 public class Animal {
     
     public String nome;
